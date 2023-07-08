@@ -55,7 +55,7 @@ scikit-plot==0.3.7
 scipy==1.10.1
 seaborn==0.12.2
 six==1.16.0
-sklearn==0.0.post5
+scikit-learn
 sphinx-rtd-theme==0.2.4
 stack-data==0.6.2
 threadpoolctl==3.1.0
