@@ -5,7 +5,7 @@ import pandas as pd
 class HealthInsurance:
     
     def __init__( self ):
-        self.home_path                    =  r'features_transformation\\'
+        self.home_path                    =  r'../features_transformation\\'
         self.annual_premium_scaler        = pickle.load( open( self.home_path + 'annual_premium_scaler.pkl' , 'rb' )  )
         self.fe_policy_sales_channel      = pickle.load( open( self.home_path + 'fe_policy_sales_channel.pkl' , 'rb' ) ) 
         self.mms_age                      = pickle.load( open( self.home_path + 'mms_age.pkl' , 'rb') )
