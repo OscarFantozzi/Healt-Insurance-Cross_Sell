@@ -1,3 +1,3 @@
-.ipynb_checkpoints
-venv_pa004
+.ipynb_checkpoints/
+venv_pa004/
 pa004.csv
