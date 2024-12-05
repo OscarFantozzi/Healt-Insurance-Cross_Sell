@@ -5,7 +5,7 @@
 
 The goal of this project is to build a classification model to predict whether a customer is interested in purchasing a health insurance policy. The dataset contains demographic and policy-related information about customers.
 
-By analyzing and modeling this data, we aim to provide insights that can help insurance companies better target potential customers and optimize their sales strategies.
+By analyzing and modeling this data, I would like to provide insights that can help insurance companies better target potential customers and optimize their sales strategies.
 
 ---
 
